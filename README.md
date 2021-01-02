@@ -1,2 +1,2 @@
 # MemoriesProject
-Project Work of Memories 
+Project Work of Memories Application
